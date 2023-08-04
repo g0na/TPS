@@ -1,5 +1,4 @@
-# project
-Third Person Shooting Game
+# Third Person Shooting Game
  Third Person Shooting game using Unreal Engine5
  
  OVERVIEW
